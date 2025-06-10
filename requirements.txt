@@ -1,0 +1,9 @@
+numpy
+tqdm
+voyageai
+anthropic
+google-generativeai
+groq
+python-dotenv
+uvicorn
+fastapi
