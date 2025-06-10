@@ -42,3 +42,5 @@ For any questions or concerns regarding this project, please refer to the reposi
 ---
 
 **Note:** This project is a community-driven effort and is **not affiliated with or endorsed by Vedabase.io**.
+
+# See Process.md for flow of project
