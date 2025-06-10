@@ -2,7 +2,7 @@ numpy
 tqdm
 voyageai
 anthropic
-google-generativeai
+google-genai
 groq
 python-dotenv
 uvicorn
